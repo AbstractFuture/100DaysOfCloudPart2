@@ -23,4 +23,4 @@ Continue my CKA certification journey.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1331007934898327555)
