@@ -10,24 +10,26 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Steven Aranibar's Cloud Journey
 
-[✍️ Introduce yourself]
+If you haven't checked out my first #100DaysOfCloud git repo, then please do! I cover many aspects of linux needed to pass the LFCS, and now I turn my attention to getting CKA certified and landing my first DevOps role in Toronto.
 
-[✍️ Tell us why you started this challenge]
+The ideal outcome would be AWS CCP and CKA certified by end of year, and my first devops role landed by end of Jan. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+See the first repo [here](https://github.com/AbstractFuture/100DaysOfCloud).
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+Happy to have you on this journey with me!
+
+Keep learning. Never give up. 100 days just might change your life!
+
+## Contact Info
+- [My Twitter](https://twitter.com/lrnallday)
+- [My LinkedIn](https://www.linkedin.com/in/steven-aranibar/)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [My First Day (Again!)](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)

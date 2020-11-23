@@ -1,52 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# My First Day (Again!)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+If you haven't checked out my first #100DaysOfCloud git repo, then please do! I cover many aspects of linux needed to pass the LFCS, and now I turn my attention to getting CKA certified and landing my first DevOps role in Toronto.
 
-## Prerequisite
+The ideal outcome would be AWS CCP and CKA certified by end of year, and my first devops role landed by end of Jan. 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+See the first repo [here](https://github.com/AbstractFuture/100DaysOfCloud).
 
-## Use Case
+Happy to have you on this journey with me!
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Keep learning. Never give up. 100 days just might change your life!
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I highly recommend you clone a copy of the original #100DaysOfCloud template and get started on your journey! Being held accountable goes a long way when it comes to self motivation.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Continue my CKA certification journey. 
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
