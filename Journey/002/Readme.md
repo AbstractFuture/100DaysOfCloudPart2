@@ -23,4 +23,4 @@ I'm currently finishing up learning about logging and monitoring before moving o
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1331163022140862464)
