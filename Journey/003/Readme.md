@@ -39,4 +39,4 @@ I used kodekloud to learn about docker and kubernetes. I leave it up to you to d
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1331656529079099392)
