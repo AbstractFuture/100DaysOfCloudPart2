@@ -40,4 +40,4 @@ I'm nearly 50% through the CKA study content! At this rate I'll not only complet
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1331960655306510337)
