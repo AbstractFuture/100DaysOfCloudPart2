@@ -39,5 +39,5 @@ I'm nearly 50% through the CKA study content! At this rate I'll not only complet
 - study for and pass the aws ccp
 
 ## Social Proof
-
+ 
 [Tweet](https://twitter.com/lrnallday/status/1331960655306510337)
