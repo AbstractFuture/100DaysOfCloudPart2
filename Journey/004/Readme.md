@@ -1,52 +1,43 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Application Lifecycle & Cluster Maintenance
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I finished up the application lifecycle CKA content and I'm making progress in the cluster maintenance labs. I hope that I'll move onto the security section, assuming I am more competent at speedrunning the previous labs.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Some basic knowledge of kubernetes is preferred.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Some things I struggle with;
+- knowing when to solve a problem with imperative commands vs creating the yaml file and editing it
+- recalling syntax
+- solving problems quickly
 
-## Try yourself
+Some things I'm good with;
+- not giving up
+- repeating past labs
+- looking up things in the documentation when I don't know the answer as opposed to spending 30 mins trying to solve a simple problem
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+Topics covered in the cluster maintenance labs;
+- OS upgrades (I will definitely need to practice this more. The documentation is too wordy and I wasn't succesful. I had to use the kode kloud video solutions, not the official documentation)
+- cluster upgrades
+- backup and restore methods
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I'm nearly 50% through the CKA study content! At this rate I'll not only complete the study labs, but have time to go through the exam prep multiple times so that I'm ready on Dec 5th for the exam.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- move onto CKA security labs
+- complete all cka content
+- pass cka
+- study for and pass the aws ccp
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()

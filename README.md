@@ -32,7 +32,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 1 > [My First Day (Again!)](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Kubernetes Practice Tests](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Rinse & Repeat - Studying For The CKA](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 4 > [Application Lifecycle & Cluster Maintenance](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
