@@ -1,52 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# CKA Security Concepts & Labs
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today I started the security section of the CKA content, but for whatever reason, kodekloud does not include video solutions to these labs. Personally I found this section very hard to sovle and follow along with. 
+
+For the remainder of the day I intend to speedrun all labs completed thus far (I suspect this will take up most of the study time I have today) and try to progress further in the security section. 
+
+If anyone has found a better series that details kubernetes security concepts, please reach out to me! 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Some basic knowledge of kubernetes is required before doing kodeklouds CKA prep course.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- speedrun all previous labs
+- finish CKA security labs
+- complete all cka content
+- pass cka
+- study for and pass the aws ccp
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[TWeet]()
