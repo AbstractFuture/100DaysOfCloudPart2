@@ -23,4 +23,4 @@ Some basic knowledge of kubernetes is required before doing kodeklouds CKA prep 
 
 ## Social Proof
 
-[TWeet]()
+[Tweet](https://twitter.com/lrnallday/status/1332291708227366912)
