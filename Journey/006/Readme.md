@@ -1,52 +1,49 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Reorganizing Tasks (Focus On Getting Hired)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I'm juggling my time between 3 main areas right now;
+- building devops projects
+- passing the cka
+- passing the aws ccp
+
+As of this week I've decided to reorganize my approach based on 2 things:
+- the aws re/start program is quickly coming to a close and I'd like to keep the program schedule timeline
+- while passing the cka and aws ccp are useful, my resume still lacks a project and I believe I could go to market faster if I had at least one project under my belt
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+For the aws ccp;
+- know the services and do practice tests prior to signing up
 
-## Use Case
+For the cka;
+- finish kode klouds cka specific exam prep before taking the exam
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+For the devops project;
+- begin this weekend. No excuses
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+I think the biggest shift in my plan has been the order in which I accomplish things. After further reflection, I could go to market faster by having at least one cloud project on the resume. 
 
-## Try yourself
+I believe the cloud project and current level of education I have should be able to get me in the door of interviewers. I have confidence I can sell myself well in the interview which, in my opinion, would influence their consideration of me more strongly than currently having the certs.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+Long story short; build project, immediately begin cold calling and reaching out, get aws ccp, and get cka.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I should be employed faster with this new strategy. Time will tell. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- begin and complete cloud/ devops projects
+- study for and pass the aws ccp
+- speedrun all previous cka labs
+- finish CKA security labs
+- complete all cka content
+- pass cka
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
