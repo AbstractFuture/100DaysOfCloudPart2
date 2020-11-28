@@ -46,4 +46,4 @@ I should be employed faster with this new strategy. Time will tell.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1332705396700614656)
