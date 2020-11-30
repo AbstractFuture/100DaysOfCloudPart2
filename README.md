@@ -35,7 +35,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 4 > [Application Lifecycle & Cluster Maintenance](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [CKA Security Concepts & Labs](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Reorganizing Tasks (Focus On Getting Hired)](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Project Progress - Jenkins Server Setup](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
