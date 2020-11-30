@@ -32,4 +32,4 @@ Part one of this ci/cd pipeline is now established. Let's keep it moving! Onto t
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1333419826270887936)
