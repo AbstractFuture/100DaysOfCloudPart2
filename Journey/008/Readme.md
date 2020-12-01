@@ -46,4 +46,4 @@ We have a functioning (although pretty basic) CI/CD pipeline! Nice! I intend to 
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1333692330893864961)
