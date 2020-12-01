@@ -1,52 +1,49 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Project Progress - Deployed Webapp w/ Jenkins & Tomcat
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+FInally! We make some cool progress that can be displayed in the browser.
+
+I've set up an apache tomcat server, created the appropraite tomcat roles and users such that I can now use tomcat deployer role from within jenkins to: 
+- get changes from the webapp's github repo every minute (talk about continuous integration, am I right?)
+- deploy those changes to a VM
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Basic understanding of linux, jenkins, apache tomcat, and aws ec2. 
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Speed to market is key, and this ci/cd pipeline gets developer changes every minute and deploys them to the vm! Very cool. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+I created my servers seperately so that troubleshooting would be more modular and less intensive than creating a single instance that hosted everything. However, if you were to combine both your jenkins and tomcat into a single server you would need to change the default ports one of them uses since, by default, they both use port 8080.
 
-## Try yourself
+To use tomcat I needed to alter some of the config files such that the server could be accessed from the browser and not just from localhost. 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+I also altered tomcats config files so that I now had a user with appropraite role permissions to deploy our automated jobs.
 
-### Step 1 — Summary of Step
+I set up a jenkins job that uses the tomcat user credentials to get changes from the repo and then deploy the changes to the webapp.
 
-![Screenshot](https://via.placeholder.com/500x300)
+As a test, I then altered the webapp contents so that anyone accessing the page would see some contact links as opposed to the original generic line "Welcome to my devops project!", saved changes and refreshed the browser.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+The automated tomcat job uses cron to scan the repo every minute, and then deploy changes, and it worked! My broswer displayed my updated webapp!
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+We have a functioning (although pretty basic) CI/CD pipeline! Nice! I intend to add more complexity everyday, with tools like docker, kubernetes, and ansible. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- integrate docker into the project
+- study for aws ccp
+- send out my resume
+- begin cka prep again
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()

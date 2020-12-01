@@ -36,7 +36,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 5 > [CKA Security Concepts & Labs](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Reorganizing Tasks (Focus On Getting Hired)](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Project Progress - Jenkins Server Setup](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 8 > [Project Progress - Deployed Webapp w/ Jenkins & Tomcat](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
