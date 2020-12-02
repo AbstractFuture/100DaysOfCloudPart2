@@ -35,4 +35,4 @@ Personal Projects:
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1334099214616453121)
