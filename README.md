@@ -37,7 +37,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 6 > [Reorganizing Tasks (Focus On Getting Hired)](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Project Progress - Jenkins Server Setup](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Project Progress - Deployed Webapp w/ Jenkins & Tomcat](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 9 > [AWS Cloud Practitioner Study Plan](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road

@@ -1,52 +1,38 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# AWS Cloud Practitioner Study Plan
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+The study plan looks something like this;
+- finish reviewing aws RE/start lecture slides (only a few more slides to go!)
+- begin Stephane Maarek's udemy course for the AWS CCP
+- take Neal Davis' aws ccp cloud practice tests (please please please check out his youtube channel! He's a very patient and articulate teacher)
+- take my pearson vue aws ccp practice test on Dec 10th
+- study as needed using Stephane's course based on these results
+- take and pass the aws ccp
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+Personal Project Plan;
+- finish all aws RE/start exercises/ projects and document it either in this #100DaysOfCloudPart2 repo or in a seperate repo
+- add more complexity (like containerization) to my ci/cd pipeline (also I need to add an elastic IP to my tomcat server because jenkins required an IP address for my automated code deployer job. Without an elastic IP this is subject to change everytime the instance is restarted)
+- perhaps build an entirely serverless ci/cd pipeline although this is the lowest priority thing on my mind at the moment
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+AWS:
+- closer to passing the aws cloud practitioner exam (scheduled for Dec 17th!)
+
+Personal Projects:
+- a more developed project portfolio that I can leverage in interview
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- studying for aws ccp
+- integrate docker into the ci/cd project
+- send out my resume
+- begin cka prep again
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
