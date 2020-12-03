@@ -21,4 +21,4 @@ Aside from that, I continued using Stephane Maarek's Udemy course, and the AWS r
 
 ## Social Proof
 
-[Twitter]()
+[Twitter](https://twitter.com/lrnallday/status/1334569883078627328)
