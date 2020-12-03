@@ -1,52 +1,24 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# VPC - Subnets in multiple availability zones
 
-## Introduction
+## Summary
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today I setup a VPC via the AWS Management Console. My goal was to assign this Private/Public VPC some additional subnets that would be in a different availability zone. My intent was to build on this exercise and offer services with high availability. 
 
-## Prerequisite
+I'm currently building out another repo to host some AWS exercises and projects to leverage that in interviews. The VPC details and configuration are listed in greater detail in there.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Aside from that, I continued using Stephane Maarek's Udemy course, and the AWS re/START study slides to review AWS services and prep for my AWS CCP online exam. Very excited to ace this exam!
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- studying for aws ccp
+- integrate docker into the ci/cd project
+- build more aws projects/ do aws exercises
+- send out my resume
+- begin cka prep again
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter]()
