@@ -1,52 +1,34 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# AWS CCP Progress
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+The timeline is as follows;
+- Dec 5 & 6 (this weekend): continue through Stephane's udemy AWS CCP lectures
+- Dec 7: have AWS re/START Cloud Practitioner practice quiz
+- Dec 8 & 9: continue through Stephane's udemy AWS CCP lectures, ensuring I repeatedly do all quizzes at the end of the lecture
+- Dec 10: use AWS practice exam (one free voucher was given to me by the AWS re/START program). This will give me an idea how much study is required before I do the real exam
+- Dec 11-16: study (depending on previous days results) or move onto other coding/ cloud projects
+- Dec 17: take and pass the AWS CCP exam
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+At the moment I am about half way through Stephane's course. I think he is a good udemy instructor. He explains things will and gives a video walkthrough of provisioning the services he is lecturing about. 
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+At the end of this weekend I should be easily passing all of Stephane's end of lecture quizzes. Depending on how good my AWS re/START practice quiz score is, I can move onto other cloud projects.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- studying for aws ccp
+- integrate docker into the ci/cd project
+- build more aws projects/ do aws exercises
+- send out my resume
+- begin cka prep again
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
