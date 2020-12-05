@@ -31,4 +31,4 @@ At the end of this weekend I should be easily passing all of Stephane's end of l
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1335279829059592192)
