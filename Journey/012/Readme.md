@@ -1,52 +1,57 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# AWS Services & Technical Recruiter Feedback
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+I'm more than half way through Stephane Maarek's Udemy course, and we've covered the basics of:
+- IAM roles
+- ec2 and its different pricing options
+- EBS (ec2 instance storage)
+- load balancers and auto scaling groups
+- s3 storage
+- databases and analytics
+- other compute services (ECS, Lambda, Batch, Lightsail)
+- deployments and managing infrastructure at scale (SSM, cloudformation, opsworks)
+- aws global infrastructure
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Remaining topics include:
+- cloud integrations
+- cloud monitoring
+- VPC & networking
+- security
+- machine learning
+- account management and billing
+- advanced identity
+- AWS architecting ecosystem
 
-## Try yourself
+Definitely looking forward to finishing up his course this weekend. I've already thought of a few new project ideas to add to my portfolio of work. I'm toying around with some cloudformation project ideas and some serverless ones. 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+If you're already working with serverless, feel free to reach out to me! I'd love to hear more about it from you.
 
-### Step 1 — Summary of Step
+On Friday I also had an interview with a specialized technical recruiting firm which places experienced devops engineers. While I was clearly well below the years of experience they generally look for, they still had the meeting with me and gave me useful feedback about my resume and the toronto market. 
 
-![Screenshot](https://via.placeholder.com/500x300)
+Resume feedback:
+Very compelling resume. They complimented the way I demonstrated how my non tech roles would contribute to me working in tech. For example, when I was studying sql, python, or devops while working in marketing, I explicitly mentioned the hours per week dedicated to building tech projects and learning. 
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+Toronto devops market feedback:
+Generally companies want a new hire to have a few years of devops experience. This probably means I need to start in a cloud engineer role first.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+At the end of this weekend I should be easily passing all of Stephane's end of lecture quizzes. Depending on how good my AWS re/START practice quiz score is, I can move onto other cloud projects.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- studying for aws ccp
+- integrate docker into the ci/cd project
+- build more aws projects/ do aws exercises
+- send out my resume
+- begin cka prep again
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
