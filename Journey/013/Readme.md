@@ -29,4 +29,4 @@ Completed both the AWS re/START and Stephane Maarek Udemy AWS CCP tests. Now ont
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1336048352308449289)
