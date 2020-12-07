@@ -15,7 +15,7 @@ Whatever happens, I'm better off today than I was yesterday.
 
 ## ☁️ Cloud Outcome
 
-Completed both the AWS re/START and Stephane Maarek Udemy AWS CCP tests. Now onto Neil Davis' practice tests and then redo Stephane's course.
+Completed both the AWS re/START and Stephane Maarek Udemy AWS CCP tests. Now onto Neal Davis' practice tests and then redo Stephane's course.
 
 ## Next Steps
 
