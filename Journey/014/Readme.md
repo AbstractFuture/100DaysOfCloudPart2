@@ -23,4 +23,4 @@ I have a general idea of what needs to be done today;
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1336642145839616000)
