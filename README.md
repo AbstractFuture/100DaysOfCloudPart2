@@ -45,7 +45,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 11 > [AWS CCP Progress](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [AWS Services & Technical Recruiter Feedback](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [AWS re/START Cloud Practitioner Practice Test Results](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [ ] ☁️ 14 > [Study Plan For The Day](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
