@@ -44,4 +44,4 @@ It appears to me this was a nice way to say I'm underqualified, since he address
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1337040095837302784)
