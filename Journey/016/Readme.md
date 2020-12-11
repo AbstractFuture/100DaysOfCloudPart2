@@ -37,4 +37,4 @@ Study plan and resources are as follows;
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1337408374074454022)
