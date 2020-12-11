@@ -1,52 +1,40 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Job Applications & Aaron Brook's Bootcamps
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I didn't get around to msot of yesterdays study plan. Instead I created custom resumes and applied to cloud engineer roles. 
 
-## Prerequisite
+That being said - it was still a very productive day and I'll be following most of what I wrote yesterday regarding the study plan.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Are you a person who wants to learn programming, AWS cloud computing, and DevOps engineering for FREE? Good. Me too. That's why I signed up to his free bootcamp which you can learn more about [here](https://www.linkedin.com/feed/update/urn:li:activity:6742891410321666048/).
 
-## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Study Plan
 
-## Cloud Research
+Study plan and resources are as follows;
+- review Stephane Maarek's Udemy course for AWS CCP, specifically around security and S3
+- begin using Neal Davis' practice test
+- complete AWS official practice test either today or tomorrow
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## Job Application Plan
 
-## Try yourself
+- apply to 2 cloud roles, and customize the resume for both of these applications
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+## Networking Plan
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- reach out to five cloud engineers in the GTA and learn more about what remote work and career growth looks like at their companies
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- studying for aws ccp
+- integrate docker into the ci/cd project
+- build more aws projects/ do aws exercises
+- send out my resume
+- begin cka prep again
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()

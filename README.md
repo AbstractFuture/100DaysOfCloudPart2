@@ -47,7 +47,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 13 > [AWS re/START Cloud Practitioner Practice Test Results](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [Study Plan For The Day](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Study/ Application/ Networking Plan (& Toronto TD Cloud Architect Feedback)](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
+- [ ] ☁️ 16 > [Job Applications & Aaron Brook's Bootcamps](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
