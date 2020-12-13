@@ -27,4 +27,4 @@
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1338135491598807042)
