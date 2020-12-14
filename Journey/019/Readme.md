@@ -34,4 +34,4 @@ Will linkedin go broke without my money? I doubt it. But isn't the whole silicon
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1338440045204746240)
