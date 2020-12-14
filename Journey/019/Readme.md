@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Study Plan, Jobs, & Linkedin Setbacks
 
-## Introduction
+## Study Plan
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Complete all Neal Davis practice exams (should be completed within a day)
+- Spend 1 hour building out my AWS re/START project portfolio (spending one hour per day should, in my estimation, allow me to complete it within 30 days)
 
-## Prerequisite
+## Jobs
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Apply to 3 cloud roles with customized resumes
 
-## Use Case
+## Linkedin Setbacks
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Ah, Linkedin. Sometimes you are not clear with your offerings.
 
-## Cloud Research
+I recently hit the commercial limit for browsing profiles. This seems reasonable, since I was reaching out to cloud engineers within Toronto and asking for resume feedback, what growth looked like at their companies, what they thought of remote work post covid lockdown, etc. However, what is unreasonable, is that after being prompted to upgrade to premium (which I did), the commercial limit is not reset. 
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Wait, what? So I'm explicitly told to upgrade, to unlock this feature again, and after buying the feature is still not available? Not only this, but if it is only certain tiers of the premium plans that would offer this, why not say so up front?
 
-## Try yourself
+After reaching out via chat, the chat timedout and prompted me to file a ticket, which was unavailable because linkedin was experiencing higher than normal support requests? 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Will linkedin go broke without my money? I doubt it. But isn't the whole silicon valley culture about creating good experiences? This needs to be improved. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- studying for aws ccp
+- integrate docker into the ci/cd project
+- build more aws projects/ do aws exercises
+- send out my resume
+- begin cka prep again
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
