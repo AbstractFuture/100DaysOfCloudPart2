@@ -51,7 +51,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 17 > [Week Of AWS CCP Exam](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [AWS Practice Test Day](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [Study Plan, Jobs, & Linkedin Setbacks](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 20 > [3 Days Before AWS CCP - How Ready Am I?](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
