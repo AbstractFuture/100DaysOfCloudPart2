@@ -31,4 +31,4 @@ Below you'll find the plan for the day. But before that, this is your call to ac
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1339164147452420096)
