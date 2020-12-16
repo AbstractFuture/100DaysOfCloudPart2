@@ -1,52 +1,34 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Exam Cramming - AWS CCP Exam Tomorrow (misc. task list included)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I'm excited to say that I feel ready for my exam tomorrow! A lot of early morning hours were spent consistently learning before the AWS re/START bootcamp began at 9am. Very happy to have been selected and have my studying subsidised. 
 
-## Prerequisite
+Below you'll find the plan for the day. But before that, this is your call to action to get busy with whatever you're hesitating to do for your professional development. You know what it is you're not doing. Take action.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## AWS CCP Study Plan
 
-## Use Case
+- retake Neal Davis' practice test (scored 95% on one this morning after reviewing material. Off to a good start!)
+- review remainder of Neal Davis' exam prep content
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Task List
 
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- spend 1 hour on AWS educate - devops learning path
+- apply to at least one job with a custom resume
+- ensure laptop meets aws ccp remote proctored exam requirements
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- studying for aws ccp (exam tomorrow!)
+- integrate docker into the ci/cd project
+- build more aws projects/ do aws exercises
+- invest in devops training
+- send out my resume
+- begin cka prep again
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()

@@ -55,7 +55,7 @@ Keep learning. Never give up. 100 days just might change your life!
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
+- [ ] ☁️ 21 > [Exam Cramming - AWS CCP Exam Tomorrow (misc. task list included)](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
