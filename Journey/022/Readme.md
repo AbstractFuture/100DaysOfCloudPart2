@@ -29,4 +29,4 @@ Very excited for today! Let's get our grind on and do our best!
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1339525240863543296)
