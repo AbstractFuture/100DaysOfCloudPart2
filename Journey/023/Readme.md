@@ -26,4 +26,4 @@ Personally I found Neal Davis' written English questions to be of higher quality
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1339899062779334658)
