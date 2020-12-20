@@ -20,4 +20,4 @@ Aside from the study plan, I'm still elated about becomming AWS Cloud Practition
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1340619630038138880)
