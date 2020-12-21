@@ -1,52 +1,35 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Python Challenge #1 Solved - & Other Misc. Tasks
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Yesterday I completed my first python challenge, which involved new things I had never done!
+- unit testing with pytest and passing 6 test cases
+- creating and using python virtual environments
 
-## Prerequisite
+Today I'll be continuing the remaining python challenges and completing HackerRank challenges. Practice makes perfect!
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Misc. Tasks
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- send out 1 custom resume
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+This python challenge is regarded as basic, so if you struggle with it please review your python fundamentals! 
 
-### Step 1 — Summary of Step
+Write a function that selects the maximum value from an array of integers. Do not use any built-in max functions. select_max([1, 2, 3, 4]) -> 4
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Your function should return a None type if the array is empty. Good luck!
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- complete python devops assessments
+    - complete more HackerRank challenges
+- send out my resume
+- begin cka prep again (mid January perhaps)
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
