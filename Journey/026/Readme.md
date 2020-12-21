@@ -32,4 +32,4 @@ Your function should return a None type if the array is empty. Good luck!
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1340944774208077831)
