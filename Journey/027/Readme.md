@@ -28,4 +28,4 @@ I've also reduced my resume to a single page and I'd like to see if my response 
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1341350491528310784)
