@@ -61,7 +61,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 24 > [Python & DevOps Learning Path](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [Adding HackerRank Into The Mix](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [Python Challenge #1 Solved - & Other Misc. Tasks](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
+- [ ] ☁️ 27 > [New Python Challenge (Medium Difficulty)](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
