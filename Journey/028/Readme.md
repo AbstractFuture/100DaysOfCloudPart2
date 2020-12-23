@@ -27,4 +27,4 @@ Today will definitely shape up to be a busy day. Here's the condensed task list;
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1341671516505862147)
