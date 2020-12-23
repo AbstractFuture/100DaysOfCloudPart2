@@ -1,52 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Cloud Resume Revamp (and interviewing!)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today will definitely shape up to be a busy day. Here's the condensed task list;
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- reduce resume to one page
+    - reduce bullet points under work experience to be more concise, less intimidating, and easier to read (recruiters spend an avg. of 6 seconds looking at your resume, so make it count!)
+- meet with other cloud engineers working in Toronto
+    - I intend to learn about their day to day, what career growth looks like at their companies, and get a feel for how my skillset matches up
+- send out updated 1 page resume to a recruiter who's waiting on it
+    - definitely need to do this before 8am!
+    - schedule an interview once that is sent out
+- have remote cloud interview in the afternoon (job is in Vancouver so I may need to move there if I'm selected!)
+- complete pthon exercises
+- contact ryerson and obtain a copy of my project management certificate (I lost my physical copy earlier this year)
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- complete python devops assessments
+    - complete more HackerRank challenges
+- send out my resume
+- begin cka prep again (mid January perhaps)
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
