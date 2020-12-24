@@ -1,52 +1,31 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Python/ AWS Study Plan
 
-## Introduction
+## Python Tasks Today
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- review while and for loops
+    - consider how to iterate through a loop using an if statement
+    - perhaps lambda or list comprehension?
+- spend at least an hour working through problems
 
-## Prerequisite
+## AWS Tasks Today
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- spend 1 hour working through AWS projects
+    - perhaps some CLI automation
 
-## Use Case
+## Resume Tasks Today
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- send out my 1 page revamped resume to 12 job postings I selected yesterday
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- complete python devops assessments
+    - complete more HackerRank challenges
+- send out my resume
+- begin cka prep again (mid January perhaps)
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
