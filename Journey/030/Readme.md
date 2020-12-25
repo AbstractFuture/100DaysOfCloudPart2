@@ -23,4 +23,4 @@ My day will mainly consist of interview prep, study, and applying to at least on
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1342422019288272899)
