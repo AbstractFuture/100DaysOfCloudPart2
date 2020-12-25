@@ -64,7 +64,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 27 > [New Python Challenge (Medium Difficulty)](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [Cloud Resume Revamp (and interviewing!)](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [Python/ AWS Study Plan](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [ ] ☁️ 30 > [Technical Interview Prep](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
 
