@@ -43,4 +43,4 @@ Definitely will be spending another hour trying to pass my python DevOps test ca
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1342846558442840064)
