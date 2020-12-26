@@ -1,52 +1,46 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Cloud Study Plan - Remainder of 2020
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+The next few days before 2021 will be busy. I have a confirmed technical interview and a pre-screen interview with another company that will be scheduled before the new year.
 
-## Prerequisite
+In addition, I have personal projects and general studying to do.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Interview #1 prep
 
-## Use Case
+- review aws services and microsoft cloud offerings
+- prepare list of questions for interviewers
+    - must not forget to ask what the next steps/timeline looks like (i.e. how soon will I hear back with acceptance or rejection)
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Interview #2 pre-screen phone chat
 
-## Cloud Research
+Not sure what to expect. The recruiter is from an agency working on behalf of the client. Don't know who the client is yet or what the company culture looks like. If it was anything like the last phone screen it will involve some technical linux and AWS questions to verify if I'm a candidate for a more detailed tech interview.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## Personal Projects
 
-## Try yourself
+Now that the AWS re/START cloud bootcamp has concluded (and I got AWS Cloud Practioner Certified!), it may be worthwhile to build a quick Terraform project over the next 2 days since I'm getting technical interviews. 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+There are valid reasons why a company uses a multi-cloud environment. For example, company A could have bought company B which uses a different cloud vendor, or perhaps company A needed to create a feature which was easier to do in a different cloud vendor. Either way, being able to speak intelligently about the use cases for Terraform will be positive in an interview. 
 
-### Step 1 — Summary of Step
+## General Studying
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Definitely will be spending another hour trying to pass my python DevOps test cases. The sooner I can land some freelance contracts, the better.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- prep for technical interview
+    - go through bookmarks for technical interview bookmarks
+    - review aws services and projects
+    - review microsoft services
+- complete python devops assessments
+    - complete more HackerRank challenges
+    - review other python tutorials
+- send out my resume
+- begin cka prep again (mid January perhaps)
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
