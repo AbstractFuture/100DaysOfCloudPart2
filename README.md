@@ -69,7 +69,7 @@ Keep learning. Never give up. 100 days just might change your life!
 ## Into the bushy, thorny forest
 
 - [ ] ☁️ 31 > [Cloud Study Plan - Remainder of 2020](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [](Journey/032/Readme.md)
+- [ ] ☁️ 32 > [Pre Technical Interview - Cloud Engineer](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
