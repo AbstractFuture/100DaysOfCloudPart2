@@ -1,52 +1,31 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Cloud Operations Technical Interview Prep (Wish me luck!)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today is my 1 hour technical interview. I've been reviewing aws services and putting together a list of questions for my interviewers. 
 
-## Prerequisite
+## Task List
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- review AWS services and Microsoft services
+- complete 1 hr of python hacker rank challenges
+- follow up with other technical recruiters via linkedin
+- begin Terraform project
+- find a VPN or firewall project on AWS (suggestions are welcome!)
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- prep for technical interview
+    - go through bookmarks for technical interview bookmarks
+    - review aws services and projects
+    - review microsoft services
+- complete python devops assessments
+    - complete more HackerRank challenges
+    - review other python tutorials
+- begin cka prep again (mid January perhaps)
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
