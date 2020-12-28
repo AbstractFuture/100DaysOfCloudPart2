@@ -28,4 +28,4 @@ Today is my 1 hour technical interview. I've been reviewing aws services and put
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1343518471469101056)
