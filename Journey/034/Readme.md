@@ -24,4 +24,4 @@ While I was screened and approved by the recruiter, the interview itself had qui
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1343874432440414214)
