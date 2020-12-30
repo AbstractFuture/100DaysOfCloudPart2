@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+
+# December's Cloud / Serverless Study Plan
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I have a lot on my plate, I think its fair to say I should spend the weekend reorganizing my priorities and planning what the next month of study plan and interviewing should look like. 
 
-## Prerequisite
+## Current task List
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- spend 1 hr revising my python devops solution
+- spend 1 hr on my terraform project
+- spend 1 hr on docker devops tasks
+- spend 1 hr sending out resumes and scheduling interviews
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- build out serverless aws project
+- build out terraform project
+    - I should turn this project into a multicloud project!
+- select and built out ansible project
+- review list of questions asked in the technical interview for studying
+    - research one thoroughly and practice answer
+- send out resume; schedule cloud interview
+- complete python devops assessments
+    - review current python solution
+        - add in comments so I don't forget what the code does
+        - add additional test cases so I can determine if my solution is hard coded or properly algorithmic
+    - review other python tutorials
+- begin cka prep again (mid January perhaps)
+- begin Aaron Brooks' pipelines and horizons bootcamp on Jan 4th
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
