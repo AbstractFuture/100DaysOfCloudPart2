@@ -34,4 +34,4 @@ I have a lot on my plate, I think its fair to say I should spend the weekend reo
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1344244221688098816)
