@@ -72,7 +72,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 32 > [Pre Technical Interview - Cloud Engineer](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [Cloud Operations Technical Interview Prep (Wish me luck!)](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [Technical Interview Recap](Journey/034/Readme.md)
-- [ ] ☁️ 35 > [](Journey/035/Readme.md)
+- [ ] ☁️ 35 > [December's Cloud / Serverless Study Plan](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
