@@ -35,4 +35,4 @@ I'll be spending some more time today adding in new test cases and revising the 
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1344566782586204160)
