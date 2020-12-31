@@ -73,7 +73,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 33 > [Cloud Operations Technical Interview Prep (Wish me luck!)](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [Technical Interview Recap](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [December's Cloud / Serverless Study Plan](Journey/035/Readme.md)
-- [ ] ☁️ 36 > [](Journey/036/Readme.md)
+- [ ] ☁️ 36 > [Python For DevOps Code Revisions (& other misc. items)](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
