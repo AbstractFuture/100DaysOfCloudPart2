@@ -13,9 +13,11 @@
 
 ## Steven Aranibar's Cloud Journey
 
-If you haven't checked out my first #100DaysOfCloud git repo, then please do! I cover many aspects of linux needed to pass the LFCS, and now I turn my attention to getting CKA certified and landing my first DevOps role in Toronto.
+If you haven't checked out my first #100DaysOfCloud git repo, then please do! I cover many aspects of linux needed to pass the LFCS, and now I turn my attention to getting CKA certified and landing my first DevOps/ cloud engineer role in Toronto.
 
-The ideal outcome would be AWS CCP and CKA certified by end of year, and my first devops role landed by end of Jan. 
+The ideal outcome would be AWS CCP and CKA certified by end of year, and my first cloud role landed by end of Jan. 
+
+(Jan 1st 2021 update): I am AWS CCP certified!
 
 See the first repo [here](https://github.com/AbstractFuture/100DaysOfCloud).
 

@@ -1,52 +1,41 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Terraform on AWS
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Today I installed Terraform, spun up an ec2 instance, made changes to the terraform config and deployed those changes. Wrapped up by destroying the infrastructure provisioned by Terraform. Very excited to keep going!
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Several Toronto technical recruiters and Toronto based senior cloud engineers have explained to me that Terraform skills are in demand. I may even need to prioritize this cert over the CKA. 
 
-## Cloud Research
+## Misc. Task List
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- reach out to 10 hiring managers who are looking for cloud engineers
+- spend 1 hr working with terraform
+- spend 1 hr solving python array problems
+    - maybe an additional hour on HackerRank
+- review technical interview questions and learn how to answer them better
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- build out serverless aws project
+- build out terraform project
+    - I should turn this project into a multicloud project!
+- select and built out ansible project
+- review list of questions asked in the technical interview for studying
+    - research one thoroughly and practice answer
+- send out resume; schedule cloud interview
+- complete python devops assessments
+    - review current python solution
+        - add additional test cases so I can determine if my solution is hard coded or properly algorithmic
+    - review other python tutorials
+- begin cka prep again (mid January perhaps)
+    - may need to push this back based on whether or not I find work by end of Jan 2021
+- begin Aaron Brooks' pipelines and horizons bootcamp on Jan 4th
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
