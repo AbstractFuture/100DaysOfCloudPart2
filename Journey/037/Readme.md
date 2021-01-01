@@ -38,4 +38,4 @@ Several Toronto technical recruiters and Toronto based senior cloud engineers ha
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1344971255330574336)
