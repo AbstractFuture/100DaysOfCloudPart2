@@ -77,7 +77,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 35 > [December's Cloud / Serverless Study Plan](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [Python For DevOps Code Revisions (& other misc. items)](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [Terraform on AWS](Journey/037/Readme.md)
-- [ ] ☁️ 38 > [](Journey/038/Readme.md)
+- [ ] ☁️ 38 > [Sorted List of HV Tasks (Jan 2021)](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
 - [ ] ☁️ 40 > [](Journey/040/Readme.md)
 
