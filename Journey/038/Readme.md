@@ -1,52 +1,49 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Sorted List of HV Tasks (Jan 2021)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I've reorganized my list of daily/ weekly/ monthly priorities. 
 
-## Prerequisite
+More emphasis on producing revenue, less emphasis on cool things that capture my interest.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## High Value Tasks (Jan 2021)
 
-## Use Case
+1) Land a cloud role (top tier priority)
+    - review cloud technical interview questions daily, practice better answers, get ready for the next interview rounds
+    - contact hiring managers and send out resumes daily
+2) Earn meaningful professional certs (mid tier priority)
+    - Terraform associate (1hr practice per day)
+    - CKA (postponed until step one is complete)
+3) Daily Practice (mid tier priority)
+    - daily python
+    - #100DaysOfCloud daily documenting
+4) Complete AWS projects (mid tier)
+    - serverless
+    - ansible w/ ec2
+5) Complete ci/cd pipeline proj (low tier)
+    - with my current technical interview experience, no questions were asked about ci/cd or jenkins. This is now a low tier priority.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- build out serverless aws project
+- build out terraform project
+    - I should turn this project into a multicloud project!
+- select and built out ansible project
+- review list of questions asked in the technical interview for studying
+    - research one thoroughly and practice answer
+- send out resume; schedule cloud interview
+- complete python devops assessments
+    - review current python solution
+        - add additional test cases so I can determine if my solution is hard coded or properly algorithmic
+    - review other python tutorials
+- begin cka prep again (mid January perhaps)
+    - may need to push this back based on whether or not I find work by end of Jan 2021
+- begin Aaron Brooks' pipelines and horizons bootcamp on Jan 4th
+- ????
+- profit
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
