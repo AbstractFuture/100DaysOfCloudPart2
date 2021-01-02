@@ -46,4 +46,4 @@ More emphasis on producing revenue, less emphasis on cool things that capture my
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1345336527547756544)
