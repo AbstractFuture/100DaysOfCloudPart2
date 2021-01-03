@@ -33,4 +33,4 @@ Some neat things about Terraform:
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1345669416617451526)
