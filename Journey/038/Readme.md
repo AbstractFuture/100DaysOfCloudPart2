@@ -38,8 +38,6 @@ More emphasis on producing revenue, less emphasis on cool things that capture my
     - review current python solution
         - add additional test cases so I can determine if my solution is hard coded or properly algorithmic
     - review other python tutorials
-- begin cka prep again (mid January perhaps)
-    - may need to push this back based on whether or not I find work by end of Jan 2021
 - begin Aaron Brooks' pipelines and horizons bootcamp on Jan 4th
 - ????
 - profit

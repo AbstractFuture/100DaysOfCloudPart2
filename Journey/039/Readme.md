@@ -1,52 +1,36 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Infrastructure as Code - The Toronto Perspective
 
-## Introduction
+## Professional Tech Feedback
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I strongly recommend learning more about your local market. Some things are universal, others are not. Without feedback from your market, you are increasing the chances of focusing on things that won't produce a return in your tech career. Listen to the market.
 
-## Prerequisite
+One such example of this is when I reach out to senior cloud/ devops engineers, or technical recruiters, I generally ask "what is the ONE thing that would make the biggest impact for getting hired?". Now, this is generally at a point when they've already seen my technical portfolio and asked about my journey into cloud etc, so I'm not saying this is the right decision for you or anything, but in my case I was told to get Terraform certified. 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Some neat things about Terraform:
+- beginner friendly syntax
+- makes dev teams more productive (many reasons for this but you can google 'infrastructure as code benefits' or some similar queries and learn more about that on your own time)
+- increases your chances of being hired ASSUMING you can explain WHY someone should use Terraform (aka what are the benefits of using it and cost of not using it), and have a technical portfolio on github
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+1) Land a cloud role (top tier priority)
+    - review cloud technical interview questions daily, practice better answers, get ready for the next interview rounds
+    - contact hiring managers and send out resumes daily
+    - begin Aaron Brooks' free devops bootcamp
+2) Earn meaningful professional certs (mid tier priority)
+    - Terraform associate (1hr practice per day)
+    - CKA (postponed until step one is complete)
+3) Daily Practice (mid tier priority)
+    - daily python
+    - #100DaysOfCloud daily documenting
+4) Complete AWS projects (mid tier)
+    - serverless
+    - ansible w/ ec2
+5) Complete ci/cd pipeline proj (low tier)
+    - with my current technical interview experience, no questions were asked about ci/cd or jenkins. This is now a low tier priority.
+
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
