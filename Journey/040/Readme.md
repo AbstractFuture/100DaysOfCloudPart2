@@ -61,4 +61,4 @@ resource "aws_s3_bucket" "b" {
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1346062293629603843)
