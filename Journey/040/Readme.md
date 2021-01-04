@@ -1,52 +1,64 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Provisioning AWS S3 Bucket With Terraform
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Practice makes perfect. Today, like the title explicitly says, I provisioned an AWS s3 bucket using terraform on my command line.
 
-## Prerequisite
+## Prerequisites
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+I used the aws configure process (as recommended by the official Terraform tutorial) so that I was not hard coding credentials into the my code.
 
-## Use Case
+## Try It Yourself
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Below is the Terraform code I used to provision my S3 bucket. 
 
-## Cloud Research
+```
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = "~> 2.70"
+    }
+  }
+}
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+provider "aws" {
+  profile = "default"
+  region  = "us-west-2"
+}
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+resource "aws_s3_bucket" "b" {
+  bucket    = "terraform-test-bucket"
+  acl       = "private"
+  versioning {
+      enabled = true
+  }
+  tags = {
+      Name        = "My_tf_bucket"
+      Environment = "Dev"
+  }
+}
+```
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+1) Land a cloud role (top tier priority)
+    - review cloud technical interview questions daily, practice better answers, get ready for the next interview rounds
+    - contact hiring managers and send out resumes daily
+    - begin Aaron Brooks' free devops bootcamp
+2) Earn meaningful professional certs (mid tier priority)
+    - Terraform associate (1hr practice per day)
+    - CKA (postponed until step one is complete)
+3) Daily Practice (mid tier priority)
+    - daily python
+    - #100DaysOfCloud daily documenting
+4) Complete AWS projects (mid tier)
+    - serverless
+    - ansible w/ ec2
+5) Complete ci/cd pipeline proj (low tier)
+    - with my current technical interview experience, no questions were asked about ci/cd or jenkins. This is now a low tier priority.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()

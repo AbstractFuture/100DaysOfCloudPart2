@@ -79,7 +79,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 37 > [Terraform on AWS](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [Sorted List of HV Cloud Tasks (Jan 2021)](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [Infrastructure as Code - The Toronto Perspective](Journey/039/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+- [ ] ☁️ 40 > [Provisioning AWS S3 Bucket With Terraform](Journey/040/Readme.md)
 
 ## Trekking the dunes
 
