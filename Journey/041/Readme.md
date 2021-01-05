@@ -64,4 +64,4 @@ resource "aws_default_vpc" "default" {}
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1346384675355426818)
