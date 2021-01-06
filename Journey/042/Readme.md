@@ -157,4 +157,4 @@ resource "aws_lb" "prod-web" {
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1346797936227848192)
