@@ -38,4 +38,4 @@ I've been setting myself up for success the last few days. Planning the next 2 w
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1348407276596506631)
