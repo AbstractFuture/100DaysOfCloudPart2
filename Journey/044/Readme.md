@@ -160,4 +160,4 @@ You've just completed a real world terraform project. Congrats!
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1348652710053240832)
