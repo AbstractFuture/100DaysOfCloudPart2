@@ -86,7 +86,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 41 > [Provisioning AWS VPC & S3 Bucket With Terraform](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [Terraform Provisioning: Web Server & Application Load Balancer On AWS](Journey/042/Readme.md)
 - [ ] ☁️ 43 > [Terraform, Freelancing, & Phone Pre-Screens](Journey/043/Readme.md)
-- [ ] ☁️ 44 > [](Journey/044/Readme.md)
+- [ ] ☁️ 44 > [Moving Local Terraform State To AWS S3 Bucket](Journey/044/Readme.md)
 - [ ] ☁️ 45 > [](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [](Journey/047/Readme.md)
