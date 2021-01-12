@@ -38,4 +38,4 @@ Thus far all phone pre screens went well and were friendly, and even the technic
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1349123106653298689)
