@@ -54,4 +54,4 @@ resource "aws_subnet" "terraformvpcsubnet1" {
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1349329241628942343)
