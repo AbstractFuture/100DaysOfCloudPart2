@@ -34,4 +34,4 @@ Right now I'm deciding on doing both, but curious as to which will be faster to 
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1349726997229039618)
