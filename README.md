@@ -90,7 +90,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 45 > [Interviews On Interviews](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [Provisioning AWS VPC Using Terraform](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [Terraform Project Selection](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [](Journey/048/Readme.md)
+- [ ] ☁️ 48 > [Phase 3 Interviews](Journey/048/Readme.md)
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
