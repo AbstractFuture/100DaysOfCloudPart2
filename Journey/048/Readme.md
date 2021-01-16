@@ -37,4 +37,4 @@ Then I simply explained which cluster of phase 2 interview questions stumped me,
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1350497570708140032)
