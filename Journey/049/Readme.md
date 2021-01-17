@@ -156,4 +156,4 @@ resource "aws_route_table_association" "arts-p-1b" {
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1350855087409815552)
