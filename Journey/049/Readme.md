@@ -1,52 +1,159 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Provisioning AWS VPC w/ 4 Subnets Using Terraform
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Last time on day46 I provisioned a basic vpc on AWS using terrform but today I decided to expand on my previous attempt and set up a vpc with 4 subnets.
 
-## Prerequisite
+I first manually set this up in the AWS console so I could recall all the settings and then googled for the correct TF syntax.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+The code works! If you choose to run this code please remember to destroy your resources afterwards.
 
-## Use Case
+## Terraform Code
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+```
+# provider block
+provider "aws" {
+region     = "us-east-1"
+}
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+# creating vpc
+resource "aws_vpc" "terraform_vpc" {
+  cidr_block       = "10.10.0.0/16"
+  tags = {
+    Name = "terraform_vpc"
+  }
+}
 
-## Try yourself
+# create internet gateway 
+resource "aws_internet_gateway" "terraform_igw" {
+ vpc_id = "${aws_vpc.terraform_vpc.id}"
+ tags = {
+    Name = "terraform_igw"
+ }
+}
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+# create elastic ip
+resource "aws_eip" "eip" {
+  vpc=true
+}
 
-### Step 1 — Summary of Step
+# create subnet
+# data block reference: https://www.terraform.io/docs/configuration/data-sources.html
+data "aws_availability_zones" "azs" {
+  state = "available"
+}
 
-![Screenshot](https://via.placeholder.com/500x300)
+# create public subnets
+resource "aws_subnet" "terraform-public-subnet-1a" {
+  availability_zone = "${data.aws_availability_zones.azs.names[0]}"
+  cidr_block        = "10.10.20.0/24"
+  vpc_id            = "${aws_vpc.terraform_vpc.id}"
+  map_public_ip_on_launch = "true"
+  tags = {
+   Name = "terraform-public-subnet-1a"
+   }
+}
 
-### Step 1 — Summary of Step
+resource "aws_subnet" "terraform-public-subnet-1b" {
+  availability_zone = "${data.aws_availability_zones.azs.names[1]}"
+  cidr_block        = "10.10.21.0/24"
+  vpc_id            = "${aws_vpc.terraform_vpc.id}"
+  map_public_ip_on_launch = "true"
+  tags = {
+   Name = "terraform-public-subnet-1b"
+   }
+}
 
-![Screenshot](https://via.placeholder.com/500x300)
+# create private subnets
+resource "aws_subnet" "terraform-private-subnet-1a" {
+  availability_zone = "${data.aws_availability_zones.azs.names[0]}"
+  cidr_block        = "10.10.30.0/24"
+  vpc_id            = "${aws_vpc.terraform_vpc.id}"
+  tags = {
+   Name = "terraform-private-subnet-1a"
+   }
+}
 
-### Step 3 — Summary of Step
+resource "aws_subnet" "terraform-private-subnet-1b" {
+  availability_zone = "${data.aws_availability_zones.azs.names[1]}"
+  cidr_block        = "10.10.31.0/24"
+  vpc_id            = "${aws_vpc.terraform_vpc.id}"
+  tags = {
+   Name = "terraform-private-subnet-1b"
+   }
+}
 
-![Screenshot](https://via.placeholder.com/500x300)
+# create nat gateway
+resource "aws_nat_gateway" "terraform-ngw" {
+  allocation_id = "${aws_eip.eip.id}"
+  subnet_id = "${aws_subnet.terraform-public-subnet-1b.id}"
+  tags = {
+      Name = "terraform nat gateway"
+  }
+}
 
-## ☁️ Cloud Outcome
+# routing
+resource "aws_route_table" "terraform-public-route" {
+  vpc_id =  "${aws_vpc.terraform_vpc.id}"
+  route {
+      cidr_block = "0.0.0.0/0"
+      gateway_id = "${aws_internet_gateway.terraform_igw.id}"
+  }
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+   tags = {
+       Name = "terraform-public-route"
+   }
+}
+
+resource "aws_default_route_table" "terraform-default-route" {
+  default_route_table_id = "${aws_vpc.terraform_vpc.default_route_table_id}"
+  tags = {
+      Name = "terraform-default-route"
+  }
+}
+
+# subnet associations
+resource "aws_route_table_association" "arts1a" {
+  subnet_id = "${aws_subnet.terraform-public-subnet-1a.id}"
+  route_table_id = "${aws_route_table.terraform-public-route.id}"
+}
+
+resource "aws_route_table_association" "arts1b" {
+  subnet_id = "${aws_subnet.terraform-public-subnet-1b.id}"
+  route_table_id = "${aws_route_table.terraform-public-route.id}"
+}
+
+resource "aws_route_table_association" "arts-p-1a" {
+  subnet_id = "${aws_subnet.terraform-private-subnet-1a.id}"
+  route_table_id = "${aws_vpc.terraform_vpc.default_route_table_id}"
+}
+
+resource "aws_route_table_association" "arts-p-1b" {
+  subnet_id = "${aws_subnet.terraform-private-subnet-1b.id}"
+  route_table_id = "${aws_vpc.terraform_vpc.default_route_table_id}"
+}
+```
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+1) Land a cloud role (top tier priority)
+    - review cloud technical interview questions daily, practice better answers, get ready for the next interview rounds
+    - contact hiring managers and send out resumes daily
+    - continue Aaron Brooks' free devops bootcamp assignments
+2) Earn meaningful professional certs (mid tier priority)
+    - Terraform associate (1hr practice per day)
+    - CKA (postponed until step one is complete)
+3) Daily Practice (mid tier priority)
+    - daily python
+    - #100DaysOfCloud daily documenting
+4) Complete AWS projects (mid tier)
+    - serverless
+    - ansible w/ ec2
+5) Complete ci/cd pipeline proj (low tier)
+    - with my current technical interview experience, no questions were asked about ci/cd or jenkins. This is now a low tier priority.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
