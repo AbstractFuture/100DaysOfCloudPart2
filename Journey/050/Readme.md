@@ -43,4 +43,4 @@ resource "aws_instance" "terraform-ec2" {
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1351306883999674368)
