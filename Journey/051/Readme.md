@@ -34,4 +34,4 @@ I have at least 2 more interviews currently scheduled for this week and I can fe
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1351590847708606465)
