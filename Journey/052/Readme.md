@@ -25,4 +25,4 @@ Today consisted of completing an interview and building out a kubernetes learnin
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1352048829248507907)
