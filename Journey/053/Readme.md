@@ -29,4 +29,4 @@ You can find the tutorial [here](https://learn.hashicorp.com/tutorials/terraform
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1352251655132237826)
