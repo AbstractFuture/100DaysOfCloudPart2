@@ -25,4 +25,4 @@ Interested in building out more Kubernetes projects? So am I. I wanted to share 
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1352606057319821312)
