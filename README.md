@@ -99,7 +99,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 51 > [Interview Pipeline & Task List](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [Interviewing & K8s Learning Path](Journey/052/Readme.md)
 - [ ] ☁️ 53 > [Provisioning AWS EKS Cluster W/ Terraform](Journey/053/Readme.md)
-- [ ] ☁️ 54 > [](Journey/054/Readme.md)
+- [ ] ☁️ 54 > [Create AWS EKS Cluster Via Command Line](Journey/054/Readme.md)
 - [ ] ☁️ 55 > [](Journey/055/Readme.md)
 - [ ] ☁️ 56 > [](Journey/056/Readme.md)
 - [ ] ☁️ 57 > [](Journey/057/Readme.md)
