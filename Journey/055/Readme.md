@@ -35,4 +35,4 @@ Aaron, in his devops bootcamp, shared the link to the cheatsheet article with hi
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1352917141264224256)
