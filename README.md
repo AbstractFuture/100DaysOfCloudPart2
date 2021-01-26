@@ -102,7 +102,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 54 > [Create AWS EKS Cluster Via Command Line](Journey/054/Readme.md)
 - [ ] ☁️ 55 > [AWS CLI Cheatsheet (Link Included)](Journey/055/Readme.md)
 - [ ] ☁️ 56 > [Staying Consistent](Journey/056/Readme.md)
-- [ ] ☁️ 57 > [](Journey/057/Readme.md)
+- [ ] ☁️ 57 > [Networking Review (Resources & Articles Included)](Journey/057/Readme.md)
 - [ ] ☁️ 58 > [](Journey/058/Readme.md)
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
