@@ -30,4 +30,4 @@
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1353873339559899137)
