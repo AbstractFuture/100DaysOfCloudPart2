@@ -31,4 +31,4 @@ Today I reviewed networking concepts.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1353990661243105280)
