@@ -48,4 +48,4 @@ I would recommend that as you study the answers to these questions (I don't inte
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1354383032929685505)
