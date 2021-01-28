@@ -104,7 +104,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 56 > [Staying Consistent](Journey/056/Readme.md)
 - [ ] ☁️ 57 > [Networking Review (Resources & Articles Included)](Journey/057/Readme.md)
 - [ ] ☁️ 58 > [Interview Questions](Journey/058/Readme.md)
-- [ ] ☁️ 59 > [](Journey/059/Readme.md)
+- [ ] ☁️ 59 > [Interview Questions (Part 2)](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
 
 ## Stumbling through the caves
