@@ -14,11 +14,6 @@ Interview questions continued.
 - what are the differences between cloudtrail and cloudwatch?
 - what is iis?
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
 ## Next Steps
 
 1) Land a cloud role (top tier priority)
@@ -39,4 +34,4 @@ Interview questions continued.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1355144280327790595)
