@@ -114,7 +114,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 63 > [Interview Questions (Part 6)](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [Interview Questions (Part 7)](Journey/064/Readme.md)
 - [ ] ☁️ 65 > [Interview Questions (Part 8)](Journey/065/Readme.md)
-- [ ] ☁️ 66 > [](Journey/066/Readme.md)
+- [ ] ☁️ 66 > [Interview Questions (Part 9)](Journey/066/Readme.md)
 - [ ] ☁️ 67 > [](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
