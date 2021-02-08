@@ -23,4 +23,4 @@ Interview questions continued.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1358866077011296264)
