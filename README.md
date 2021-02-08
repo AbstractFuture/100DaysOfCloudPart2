@@ -118,7 +118,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 67 > [Interview Questions (Part 10)](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [Interview Questions (Part 11)](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [Interview Questions (Part 12)](Journey/069/Readme.md)
-- [ ] ☁️ 70 > [](Journey/070/Readme.md)
+- [ ] ☁️ 70 > [Interview Questions (Part 13)](Journey/070/Readme.md)
 
 ## Resting at the Lagoon
 
