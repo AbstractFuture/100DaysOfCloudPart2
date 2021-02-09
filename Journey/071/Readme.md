@@ -25,4 +25,4 @@ Really excited that I get to be multi cloud :)
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1359129551734005760)
