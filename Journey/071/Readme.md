@@ -1,52 +1,28 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Hit The Ground Running - Learning Path On The First Day!
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+My first day in my first cloud role (Associate cloud operations engineer! How cool is that?) was great. 
 
-## Prerequisite
+I am a constant learner and I wanted a company that really valued that. I can now confidently say that Cloudreach is definitely that place. My manager laid out the certification learning path I need to do and the timeline I need to do it in. I like the directness! Really excited to keep learning.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Azure Certs
 
-## Use Case
+The first cert I need to get is the AZ 104 - The azure administrator cert. Let's get it! Cloudreach has a subsription to acloudguru and I started the learning path as of yesterday to do the AZ 104 lectures and labs.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Really excited that I get to be multi cloud :)
 
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+1) Continue Aaron Brooks' free devops bootcamp assignments
+2) Earn meaningful professional certs
+    - AZ 104 (Azure Administrator)
+3) Daily Practice
+    - Azure labs
+    - #100DaysOfCloud daily documenting
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
