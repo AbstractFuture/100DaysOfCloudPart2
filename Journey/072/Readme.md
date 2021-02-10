@@ -26,4 +26,4 @@ Overall it was a productive day of learning.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1359478181795930114)
