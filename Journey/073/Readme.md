@@ -23,4 +23,4 @@ Today I learned more about Azure concepts and provisioned resources in the Azure
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1359831537219489793)
