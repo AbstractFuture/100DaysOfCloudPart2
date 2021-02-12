@@ -24,4 +24,4 @@ Today I finished the acloudguru AZ-900 lectures.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1360206870753992704)
