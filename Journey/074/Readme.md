@@ -1,52 +1,27 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# AZ-900 Follow Up
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today I finished the acloudguru AZ-900 lectures.
 
-## Prerequisite
+## Task List
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- do practice exams
+    - take notes on which area I did the worst
+    - review my weakest areas first
+- move onto studying for the AZ-104 Azure Administrator Associate
+    - I don't expect to move onto the AZ-104 today
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+1) Continue Aaron Brooks' free devops bootcamp assignments
+2) Earn meaningful professional certs
+    - AZ 104 (Azure Administrator)
+3) Daily Practice
+    - Azure labs
+    - #100DaysOfCloud daily documenting
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()

@@ -125,7 +125,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 71 > [Hit The Ground Running - Learning Path On The First Day!](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [Learning Azure From Scratch](Journey/072/Readme.md)
 - [ ] ☁️ 73 > [AZ-900 Stuyding](Journey/073/Readme.md)
-- [ ] ☁️ 74 > [](Journey/074/Readme.md)
+- [ ] ☁️ 74 > [AZ-900 Follow Up](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [](Journey/075/Readme.md)
 - [ ] ☁️ 76 > [](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [](Journey/077/Readme.md)
