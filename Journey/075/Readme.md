@@ -24,4 +24,4 @@ Today I finished the acloudguru AZ-900 Practice tests. I'll be redoing these pra
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1361339500488712194)
