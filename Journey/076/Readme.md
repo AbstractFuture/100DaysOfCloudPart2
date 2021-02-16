@@ -26,4 +26,4 @@ I've completed about 30% of the az-104 content. I better start on the practice t
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1361676388810579969)
