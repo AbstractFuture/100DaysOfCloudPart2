@@ -127,7 +127,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 73 > [AZ-900 Stuyding](Journey/073/Readme.md)
 - [ ] ☁️ 74 > [AZ-900 Follow Up](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [AZ-900 Practice Tests](Journey/075/Readme.md)
-- [ ] ☁️ 76 > [](Journey/076/Readme.md)
+- [ ] ☁️ 76 > [Orientation / Training](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [](Journey/077/Readme.md)
 - [ ] ☁️ 78 > [](Journey/078/Readme.md)
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
