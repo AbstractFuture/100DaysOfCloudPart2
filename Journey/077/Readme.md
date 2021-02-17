@@ -18,4 +18,4 @@ Installed homebrew but error message indicated OS was too old. Now I've updated 
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1362011473875251201)
