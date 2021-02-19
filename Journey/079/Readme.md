@@ -16,4 +16,4 @@ After a day or so of cloning repos using a script, I notice now that the wikis p
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1362818369267896325)
