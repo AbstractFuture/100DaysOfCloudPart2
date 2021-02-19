@@ -130,7 +130,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 76 > [Orientation / Training](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [Home Brew Troublehsooting](Journey/077/Readme.md)
 - [ ] ☁️ 78 > [Today I Learned (see details)](Journey/078/Readme.md)
-- [ ] ☁️ 79 > [](Journey/079/Readme.md)
+- [ ] ☁️ 79 > [Chef ~~Headaches~~ Troubleshooting](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
 
 ## Up into the mountains
