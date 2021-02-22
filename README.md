@@ -18,6 +18,7 @@ If you haven't checked out my first #100DaysOfCloud git repo, then please do! I 
 The ideal outcome would be AWS CCP and CKA certified by end of year, and my first cloud role landed by end of Jan. 
 
 (Jan 1st 2021 update): I am AWS CCP certified!
+(Feb 8th 2021 update): I begin my first day as an Associate Cloud Operations Engineer at Cloudreach! :)
 
 See the first repo [here](https://github.com/AbstractFuture/100DaysOfCloud).
 
@@ -131,7 +132,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 77 > [Home Brew Troublehsooting](Journey/077/Readme.md)
 - [ ] ☁️ 78 > [Today I Learned (see details)](Journey/078/Readme.md)
 - [ ] ☁️ 79 > [Chef ~~Headaches~~ Troubleshooting](Journey/079/Readme.md)
-- [ ] ☁️ 80 > [](Journey/080/Readme.md)
+- [ ] ☁️ 80 > [BeCloudReady DevOps Training Review](Journey/080/Readme.md)
 
 ## Up into the mountains
 
