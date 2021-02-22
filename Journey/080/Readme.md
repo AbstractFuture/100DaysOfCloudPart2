@@ -9,7 +9,6 @@ I'm not being paid for my review - this is just my honest opinion about my exper
 
 ## The Review
 
-```
 Hey Everyone,
 I hope you are all doing well. I wanted to post a review of my experience with the BeCloudReady team.
 
@@ -23,7 +22,6 @@ I hope this review has been helpful! The DevOps field is growing fast and I am s
 
 Best,
 Steven Aranibar
-```
 
 ## Next Steps
 
@@ -35,4 +33,4 @@ Steven Aranibar
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1363872803456450564)
