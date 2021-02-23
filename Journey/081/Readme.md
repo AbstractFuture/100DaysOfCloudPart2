@@ -26,4 +26,4 @@ Today I focused on studying for my upcoming microsoft azure exam and performed s
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1364216619698970624)
