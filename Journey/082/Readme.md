@@ -32,4 +32,4 @@ $ knife node show <node-name>
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1364576268860203010)
