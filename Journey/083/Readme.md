@@ -17,4 +17,4 @@ I suspect I'll need to send another half day figuring out why my role, which I'v
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1364939076026179585)
