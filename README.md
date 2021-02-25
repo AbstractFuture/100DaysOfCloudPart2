@@ -138,7 +138,7 @@ Keep learning. Never give up. 100 days just might change your life!
 
 - [ ] ☁️ 81 > [Chef Troubleshooting & AZ-104 Review](Journey/081/Readme.md)
 - [ ] ☁️ 82 > [Chef Troubleshooting & AZ-104 Review Pt.2](Journey/082/Readme.md)
-- [ ] ☁️ 83 > [](Journey/083/Readme.md)
+- [ ] ☁️ 83 > [AWS CloudTrail Troubleshooting](Journey/083/Readme.md)
 - [ ] ☁️ 84 > [](Journey/084/Readme.md)
 - [ ] ☁️ 85 > [](Journey/085/Readme.md)
 - [ ] ☁️ 86 > [](Journey/086/Readme.md)
