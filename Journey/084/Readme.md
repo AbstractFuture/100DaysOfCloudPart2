@@ -22,4 +22,4 @@ Aside from that, I continued the az-104 study and labs on acloudguru.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1365300291009183748)
