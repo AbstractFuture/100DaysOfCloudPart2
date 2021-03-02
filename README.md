@@ -140,7 +140,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 82 > [Chef Troubleshooting & AZ-104 Review Pt.2](Journey/082/Readme.md)
 - [ ] ☁️ 83 > [AWS CloudTrail Troubleshooting](Journey/083/Readme.md)
 - [ ] ☁️ 84 > [Automated Patching For VMs (MultiCloud)](Journey/084/Readme.md)
-- [ ] ☁️ 85 > [](Journey/085/Readme.md)
+- [ ] ☁️ 85 > [Resizing AWS Instances](Journey/085/Readme.md)
 - [ ] ☁️ 86 > [](Journey/086/Readme.md)
 - [ ] ☁️ 87 > [](Journey/087/Readme.md)
 - [ ] ☁️ 88 > [](Journey/088/Readme.md)
