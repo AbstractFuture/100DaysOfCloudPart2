@@ -22,4 +22,4 @@ Troubleshooting my process for resizing AWS instances manually.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1366755200632057856)
