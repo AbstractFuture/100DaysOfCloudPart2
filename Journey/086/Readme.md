@@ -15,4 +15,4 @@ I continued resizing AWS instances. The procedure differed between nitro instanc
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1367125156469047303)
