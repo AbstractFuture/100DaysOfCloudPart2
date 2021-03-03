@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I continued resizing AWS instances. The procedure differed between nitro instances and other instance sizes.
+I continued resizing AWS instances. The procedure differed between nitro instances and other instance sizes.S
 
 ## Next Steps
 
