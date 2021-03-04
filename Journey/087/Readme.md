@@ -1,52 +1,24 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Tooling & Job Shadowing
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today (well not just today, several times this week and last week, but in particular today), I was job shadowing an experienced cloud ops engineer and seeing how they navigated their workflow, and how they patched instances and communicated w/ customers.
+
+Definitely a cool experience. I'm a fan of this 'over-the-shoulder' approach, and I wish that the companies I used to work for in advertising did something similar for new hires. It is such a cool and useful experience to see trouble shooting in real time, seeing the questions an experienced cloudops engineer asks, and seeing how efficiently they solve complex tasks. I love it.
 
 ## Prerequisite
 
 ✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+1) Earn meaningful professional certs
+    - AZ 104 (Azure Administrator)
+2) Daily Practice
+    - Azure labs
+    - #100DaysOfCloud daily documenting
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Tweet]()
