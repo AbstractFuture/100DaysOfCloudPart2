@@ -19,4 +19,4 @@ When writing, I always tried to keep in mind that this documentation has to be e
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1367844903535968256)
