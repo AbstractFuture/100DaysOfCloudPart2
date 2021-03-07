@@ -145,7 +145,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 86 > [Resizing AWS Instances Pt.2](Journey/086/Readme.md)
 - [ ] ☁️ 87 > [Tooling & Job Shadowing](Journey/087/Readme.md)
 - [ ] ☁️ 88 > [Writing Documentation](Journey/088/Readme.md)
-- [ ] ☁️ 89 > [](Journey/089/Readme.md)
+- [ ] ☁️ 89 > [AZ-104 Practice Test Review](Journey/089/Readme.md)
 - [ ] ☁️ 90 > [](Journey/090/Readme.md)
 
 ## Into the sky to touch the cloud!
