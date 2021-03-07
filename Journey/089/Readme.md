@@ -19,4 +19,4 @@ That being said, I really do prefer AWS documentation when researching answers.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1368551172756414465)
