@@ -21,4 +21,4 @@ Once I finish the AZ-104 I'll begin working towards my AWS Solutions Architect c
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1368909133328617475)
