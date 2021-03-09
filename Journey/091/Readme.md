@@ -17,4 +17,4 @@ The remainder of the day was monitoring pagerduty.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1369255588136431617)
