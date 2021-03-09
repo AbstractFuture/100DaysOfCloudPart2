@@ -150,7 +150,7 @@ Keep learning. Never give up. 100 days just might change your life!
 
 ## Into the sky to touch the cloud!
 
-- [ ] ☁️ 91 > [](Journey/091/Readme.md)
+- [ ] ☁️ 91 > [Bootstrapping A Chef Node](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [](Journey/092/Readme.md)
 - [ ] ☁️ 93 > [](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [](Journey/094/Readme.md)
