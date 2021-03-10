@@ -17,4 +17,4 @@ Definitely excited to start patching instances on my own within the next couple 
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1369619553190346755)
