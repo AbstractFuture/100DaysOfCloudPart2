@@ -19,4 +19,4 @@ Overall: a pretty cool day.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1369987617647890436)
