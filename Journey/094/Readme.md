@@ -24,4 +24,4 @@ Basically lots of troubleshooting.
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1370348966756421635)
