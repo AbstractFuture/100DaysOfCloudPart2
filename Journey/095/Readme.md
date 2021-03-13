@@ -18,4 +18,4 @@ Last day of training included;
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1370711879832764419)
