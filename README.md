@@ -155,7 +155,7 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 93 > [AWS Support + Terraform Training](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [Tooling Setup Troubleshooting](Journey/094/Readme.md)
 - [ ] ☁️ 95 > [End Of Training](Journey/095/Readme.md)
-- [ ] ☁️ 96 > [](Journey/096/Readme.md)
+- [ ] ☁️ 96 > [AZ-104 Resources](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [](Journey/097/Readme.md)
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
