@@ -21,4 +21,4 @@ I'm almost at the end of my second consecutive 100DaysOfCloud. Here are the thin
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1371839124634804230)
