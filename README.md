@@ -157,6 +157,6 @@ Keep learning. Never give up. 100 days just might change your life!
 - [ ] ☁️ 95 > [End Of Training](Journey/095/Readme.md)
 - [ ] ☁️ 96 > [AZ-104 Resources](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [Your Future In Tech](Journey/097/Readme.md)
-- [ ] ☁️ 98 > [](Journey/098/Readme.md)
+- [ ] ☁️ 98 > [First Automated Patching (Setbacks & Lessons Learned)](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
 - [ ] ☁️ 100 > [](Journey/100/Readme.md)
