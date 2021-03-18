@@ -26,4 +26,4 @@ Overall, the outcome was successful! And it was very cool to take the lead on th
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1372470507132616706)
