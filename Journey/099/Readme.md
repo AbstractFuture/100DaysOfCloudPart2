@@ -21,4 +21,4 @@ This information was used by me and a colleague to determine the cause and time 
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1372864001923809284)
