@@ -31,9 +31,6 @@ When I got my offer from Cloudreach I was in the middle of 2 other technical int
 
 You can lead a horse to water, but you can't make it drink. I hope these stories prove to be useful to you. I hope they remind you to take action.
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
 ## Next Steps
 
@@ -45,4 +42,4 @@ You can lead a horse to water, but you can't make it drink. I hope these stories
 
 ## Social Proof
 
-[Tweet]()
+[Tweet](https://twitter.com/lrnallday/status/1373967391802191873)
